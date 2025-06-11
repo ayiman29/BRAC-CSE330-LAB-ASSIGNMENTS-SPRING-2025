@@ -1,6 +1,6 @@
 # CSE330 - Numerical Methods
 
-This repository contains the lab files for the CSE330 course, Numerical Methods. These are the daily evaluations done throughout the semester.
+This repository contains the lab files for the CSE330 course and with the daily evaluations.
 
 ---
 
